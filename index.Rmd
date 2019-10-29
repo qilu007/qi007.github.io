@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "Qi Lu"
 output: 
   html_document:
     toc: true
@@ -7,13 +7,13 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# Welcome to Qi Lu's website!
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](images/110105.jpeg)
 
+  Welcome to my website! My name is Qi Lu, and I'm from Beijing. I had been living in London during my senior high school, and then finished my undergraduate education in SUNY Stony Brook University. 
   
-  # add link 
-I often use [google](google.com) 
+This is my [Github](https://github.com/qilu007) account, and please feel free to contact me (<a href="mailto:ql2370@cumc.columbia.edu">Send mail</a>).
 
-# add image
-![](images/11111.png)
+
+
