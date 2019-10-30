@@ -9,8 +9,68 @@ output:
 
 # This is about my life journey!
 
-![](images/1977.JPG)
+![](images/1977.JPG){hight=600px, width=300px}
+
+## EDUCATION   
+
+1. Columbia University – New York, New York,                                August 2019 – Present  
+M.S. in Biostatistics  
+  
+
+2. SUNY Stony Brook University - Stony Brook, New York,                     August 2014 – May 2018  
+B.S. in Applied Mathematics and Statistics; Minor in Computer Science, GPA 3.65/4.00  
+Teaching Assistant in Computation Geometry; Teaching Assistant in Computer Science I  Relevant Coursework: Probability Theory, Data Analysis, Applied Linear Algebra, Differential Equations, Applied Calculus, Programming, Computer Systems, Computation, Introductory Business, Economics
+  
+3. CATS College London - London, United Kingdom,	                               January 2012 – June 2014  
+A-Level Course 
 
   
+  
+## INTERNSHIP EXPERIENCE  
+  
+### Diamler Greater China Ltd.  
+
+March 2019 – Present  
+Program manager, Product Strategy & Digital Program Management
+Aligned with cross carline department and controlled the process of car platform program of with both Research & Development China and German side  
+•	Developed vehicle, powertrain and battery strategies and constructed all levels of electric carlines products to adapt the local policies and future market  
+•	Organized meetings with different departments to lead localization projects of next generation digital functions in future carlines 
+
+ 
+ 
+ 
+  
+## RESEARCH AND IN-CLASS PROJECTS
+  
+### Research Assistant, Applied Mathematics and Statistics Department
+SUNY Stony Brook University - Stony Brook, New York                                                          January 2018 – June 2018  
+Analyzed and tested the tracking commercial data from the financial database of the developing program on stock price simulation, modeled statistic hypotheses and researches in quant filed  
+
+•	Implemented methods that tested trading strategy would have an average positive return  
+•	Developed the search algorithm to retrieve the information in the program   
+•	Programmed with C language for optimal figures results and accuracy tests  
+•	Constructed tendency check models to improve the accuracy of the simulation   
+  
+    
+  
+### Teaching Assistant, Applied Mathematics and Statistics Department  
+SUNY Stony Brook University - Stony Brook, New York                                                     September 2017 – June 2018  
+Assisted Professor to grade Graph Theory assignments and exams; answers questions from the students on the lectures  
+•	Reviewed concepts of Graph Theory and applications from Mathematics and Statistics classical theory  
+
+
+### Teaching Assistant, Computer Science Department  
+SUNY Stony Brook University - Stony Brook, New York                                                          January 2017 – June 2017  
+Taught the unclear part of lectures, helped students finish in implicating methods and assignments with Java  
+•	Taught and reviewed both hard algorithms and concepts of programming and led a lab session  
+  
+ 
+ 
+  
+## OTHERS  
+### Computer skills:
+Java, JavaScript, Python, C++, R, MIPS, MATLAB, SQL, Word, Excel, PowerPoint
+
+
 
 
