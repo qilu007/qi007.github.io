@@ -1,5 +1,5 @@
 ---
-title: "Qi Lu ~ Kiki Lu"
+title: "Dashboard"
 output: 
   html_document:
     toc: true
@@ -7,9 +7,8 @@ output:
     theme: readable
 ---
 
-# Welcome to Qi Lu's website!
+# This page is about Dashboard!
 
-![](images/110105.jpeg){hight=600px, width=300px}
 
   Welcome to my website! My name is Qi Lu, and I'm from Beijing. You can call me Kiki. I had been living in London during my senior high school, and then finished my undergraduate education in SUNY Stony Brook University. 
   
