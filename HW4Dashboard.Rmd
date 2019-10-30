@@ -1,36 +1,24 @@
 ---
-title: "dashboard"
+title: "Dashboard"
 output: 
-   flexdashboard::flex_dashboard:
+  flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
 ---
 
-
-
 ```{r setup, include=FALSE}
 library(flexdashboard)
-```
 
-
-```{r}
 library(tidyverse)
 library(viridis)
 library(p8105.datasets)
 library(plotly)
 
-```
-
-```{r}
 data("rest_inspec")
 janitor::clean_names(rest_inspec)
 rest_inspec = rest_inspec %>% 
   filter(grade != "NA" & zipcode == "10001" & grade != "Not Yet Graded")
 rest_inspec = rest_inspec[order(rest_inspec$building),]
-
-```
-
-```{r}
 common_street =
   rest_inspec %>% 
   count(street, sort = TRUE) %>% 
@@ -38,14 +26,10 @@ common_street =
   select(street)
 ```
 
-
-
-
-Column {data-width=650}
+Column {data-width=350}
 -----------------------------------------------------------------------
 
 ### Chart A
-
 
 ```{r}
 rest_inspec %>%
@@ -55,18 +39,17 @@ rest_inspec %>%
     color = ~score, text = ~text_label, alpha = 0.5)
 ```
 
-
-Column {data-width=350}
+Column {data-width=650}
 -----------------------------------------------------------------------
 
 ### Chart B
+
 ```{r}
 inner_join(rest_inspec, common_street, by = "street") %>% 
   mutate(street = fct_reorder(street, score)) %>% 
   plot_ly(y = ~score, color = ~street, type = "box",
           colors = "Set2")
 ```
-
 
 ### Chart C
 
