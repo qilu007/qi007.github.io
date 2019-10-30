@@ -1,5 +1,5 @@
 ---
-title: "Qi Lu"
+title: "Qi Lu ~ Kiki Lu"
 output: 
   html_document:
     toc: true
@@ -9,9 +9,9 @@ output:
 
 # Welcome to Qi Lu's website!
 
-![](images/110105.jpeg)
+![](images/110105.jpeg){hight=600px, width=300px}
 
-  Welcome to my website! My name is Qi Lu, and I'm from Beijing. I had been living in London during my senior high school, and then finished my undergraduate education in SUNY Stony Brook University. 
+  Welcome to my website! My name is Qi Lu, and I'm from Beijing. You can call me Kiki. I had been living in London during my senior high school, and then finished my undergraduate education in SUNY Stony Brook University. 
   
 This is my [Github](https://github.com/qilu007) account, and please feel free to contact me (<a href="mailto:ql2370@cumc.columbia.edu">Send mail</a>).
 
